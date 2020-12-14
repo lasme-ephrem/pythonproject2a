@@ -99,6 +99,7 @@ dependencies:
   - pandoc=2.11=h9490d1a_0
   - pandocfilters=1.4.3=py38haa95532_1
   - parso=0.8.1=pyhd3eb1b0_0
+  - patsy=0.5.1=py38_0
   - pickleshare=0.7.5=pyhd3eb1b0_1003
   - pillow=8.0.1=py38h4fa10fc_0
   - pip=20.3.1=py38haa95532_0
@@ -138,6 +139,7 @@ dependencies:
   - sip=4.19.13=py38ha925a31_0
   - six=1.15.0=py38haa95532_0
   - sqlite=3.33.0=h2a8f88b_0
+  - statsmodels=0.12.1=py38h2bbff1b_0
   - tensorboard=2.3.0=pyh4dce500_0
   - tensorboard-plugin-wit=1.6.0=py_0
   - tensorflow=2.3.0=mkl_py38h8c0d9a2_0
