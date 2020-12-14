@@ -2,7 +2,7 @@
 
 ## Projet Python pour l'économiste (2A)
 
-![alt text](https://fr.wikipedia.org/wiki/Fichier:LOGO-ENSAE.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/240px-LOGO-ENSAE.png)
 
 ### Réalisé par : 
 
