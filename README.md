@@ -12,7 +12,7 @@
 * ELAOUNI Fouzia
 
 
-### Enseignant (TD) : 
+### Enseignante (TD) : 
 
 * MULLER Anne
 
