@@ -2,7 +2,7 @@
 
 ## Projet Python pour l'économiste (2A)
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png">
+<center><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png"></center>
 
 ## Thème : Analyse prédictive du cours des actions FAANG
 
